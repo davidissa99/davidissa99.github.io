@@ -12,4 +12,4 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src=""/></center>
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2023 David Issá. Powered by Jekyll and the Minimal Theme.</center>
