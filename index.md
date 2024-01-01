@@ -8,7 +8,6 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
 
 <center><img src="images/Genre Recognition Project Banner.png"/></center>
-
 xxx.
 
 ---
