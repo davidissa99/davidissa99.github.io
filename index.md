@@ -9,7 +9,6 @@ xxx.
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
 
-<center><img src=""/></center>
-
+<center><img src="images/Genres Recognition Project Banner.png"/></center>
 ---
 <center>© 2023 David Issá. Powered by Jekyll and the Minimal Theme.</center>
