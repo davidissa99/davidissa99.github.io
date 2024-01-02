@@ -10,6 +10,7 @@ The CNN model is trained using data augmentation tecnhiques along with regulariz
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/music-genre-recognition-notebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
+[![Open Web App](https://img.shields.io/badge/1001tracklists-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
 
 <center><img src="images/Genre Recognition Project Banner.png"/></center>
 
