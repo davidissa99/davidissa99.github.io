@@ -8,7 +8,7 @@ A Convolutional Neural Network (CNN) is employed to model a music classification
 
 The CNN model is trained using data augmentation tecnhiques along with regularization techniques, resulting in an accuracy of 84% and loss of 0.52 for the test. 
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Music Genre Recognition Notebook.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/music-genre-recognition-notebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
 
 <center><img src="images/Genre Recognition Project Banner.png"/></center>
