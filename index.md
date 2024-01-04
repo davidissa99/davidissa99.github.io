@@ -4,7 +4,7 @@
 
 ### Music Genres Recognition using Neural Networks
 
-A Convolutional Neural Network (CNN) is employed to model a music classification task using the GTZAN dataset (available in Kaggle). It comprises 100 audio samples of 30 seconds each for 10 different music genres. Visual representations of each music sample are fed to the CNN as inputs.
+A Convolutional Neural Network (CNN) is employed to model a music genre classification task using the GTZAN dataset, comprising 100 music samples of 30 seconds each for 10 different music genres. 
 
 The CNN model is trained using data augmentation tecnhiques along with regularization techniques, resulting in an accuracy of 86% and loss of 0.51 for the test. 
 
